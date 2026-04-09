@@ -1,6 +1,11 @@
 # reasoning-skill
 
-A structured reasoning framework for Claude that enforces deliberate, context-aware thinking before responding. This skill addresses the gap between having access to information and knowing how to use it well.
+A structured reasoning skill for Claude. Forces context-first thinking, goal identification, assumption auditing, and wall navigation before every response.
+
+![Claude Skill](https://img.shields.io/badge/Claude-Skill-black?style=flat-square&logo=anthropic)
+![License](https://img.shields.io/github/license/Firekid-is-him/Reasoning-Skill-Claude?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Firekid-is-him/Reasoning-Skill-Claude?style=flat-square)
+![Topics](https://img.shields.io/badge/topics-claude%20%7C%20reasoning%20%7C%20context--engineering-blue?style=flat-square)
 
 ---
 
@@ -114,3 +119,6 @@ It is not intended for simple factual questions where context does not change th
 ## Author
 
 Built by [Firekid](https://github.com/firekid).
+
+[![GitHub stars](https://img.shields.io/github/stars/Firekid-is-him/Reasoning-Skill-Claude?style=social)](https://github.com/Firekid-is-him/Reasoning-Skill-Claude/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Firekid-is-him/Reasoning-Skill-Claude?style=social)](https://github.com/Firekid-is-him/Reasoning-Skill-Claude/network/members)
